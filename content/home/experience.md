@@ -56,4 +56,12 @@ experience:
       * Conducted computational experiments for scenarios to identify patterns in various feature representations of MSL Navcam images
       * Developed and revised codebase to build out training datasets and deploy microservice for testing novelty detection simulator
 
+- title: Research Assistant
+    company: UMD — Geosciences Department x NASA JPL
+    company_url: ''
+    location: Remote
+    date_start: '2019-11-01'
+    date_end: '2020-09-30'
+    description: |2-
+      Advisors: TESTING
 ---
