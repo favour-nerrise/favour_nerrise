@@ -23,21 +23,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: University of Maryland, College Park — Geosciences Department x NASA Harvest 
+    company: UMD — Geosciences Department x NASA Harvest 
     company_url: ''
     location: Remote
     date_start: '2020-10-01'
     date_end: ''
     description: |2-
-        Advisor: Dr. Hannah Kerner
-        * Training an LSTM to estimate area planted, crop classification, production, and yield in Mali
-        * Applying k-means clustering to separate cropland from cover land over the target area using Planet Labs L3H geospatial image data 
+      Advisor: Dr. Hannah Kerner
+      * Training an LSTM to estimate area planted, crop classification, production, and yield in Mali
+      * Applying k-means clustering to separate cropland from cover land over the target area using Planet Labs L3H geospatial image data 
         
-  - title: Professor
-    company: University X
+  - title: Research Assistant
+    company: UMD — Geosciences Department x NASA JPL
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Remote
+    date_start: '2019-11-01'
+    date_end: '2020-09-30'
+    description: |2-
+      Advisor: 
+      * Creating probabilistic models to predict precipitation frequency from NARCCAP data using precipitation frequency analysis
+      * Using Gaussian regression to apply temporal downscaling for future climate change scenarios
+
 ---
