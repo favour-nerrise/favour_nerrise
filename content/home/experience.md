@@ -55,7 +55,8 @@ experience:
       * Implemented dimensionality reduction and novelty detection algorithms on image data to detect novel geology for Mars Science Laboratory and Mars 2020 missions
       * Conducted computational experiments for scenarios to identify patterns in various feature representations of MSL Navcam images
       * Developed and revised codebase to build out training datasets and deploy microservice for testing novelty detection simulator
-    
+
+
  - title: Research Assistant
     company:  UMD - AI Research for Intelligence Community Challenges 
     company_url: ''
@@ -67,6 +68,7 @@ experience:
       * Built a state of the art predictive agent-based modeling and machine learning integrated model to discretize complex physical phenomena and identify interactions of statistical hurricane models
       * Developed ML techniques for an ensemble model to forecast North Atlantic hurricane trajectories and intensities with 83% accuracy
 
+
  - title: Research Assistant
     company: LEIDOS Innovation Center
     company_url: ''
@@ -77,6 +79,7 @@ experience:
       Advisor: Dr. Weicheng Shen
       * Created scalable CNNs to filter unusable images for utility transformation detection using activation map algorithms, using PyTorch, Google Inception, Jupyter Notebook, NumPy
       * Developed and plotted dimension reduction datasets to process activation maps using PCA and t-SNE.
+
 
  - title: Research Assistant
     company:  
