@@ -62,5 +62,3 @@ highlight_name: true
 ---
 
 I am an undergraudate student at the University of Maryland, College Park. My interests include neuroengineering, intelligent systems, digital signal processing,  deep learning, and medical devices. I am interested in research for scientific novelty and social good. 
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
