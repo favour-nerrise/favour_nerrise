@@ -22,18 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: University of Maryland, College Park — Geosciences Department x NASA Harvest 
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Remote
+    date_start: '2020-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Advisor: Dr. Hannah Kerner
+        * Training an LSTM to estimate area planted, crop classification, production, and yield in Mali
+        * Applying k-means clustering to separate cropland from cover land over the target area using Planet Labs L3H geospatial image data 
         
   - title: Professor
     company: University X
