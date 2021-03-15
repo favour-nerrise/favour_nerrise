@@ -84,8 +84,8 @@ experience:
     company:  
     company_url: ''
     location: Remote
-    date_start: '2019-11-01'
-    date_end: '2020-09-30'
+    date_start: '2018-01-01'
+    date_end: '2018-07-30'
     description: |2-
       * Conducted pre-processing for EEG and fMRI data using signal processing and statistical parametric mapping
       * Designed and implemented supervised learning model algorithms and CNN for diagnosing Parkinson’s Disease with 97.86% accuracy, using Google Inception v3, Naïve Bayes, kNN via Sci-kit learn
