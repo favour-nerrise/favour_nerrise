@@ -39,10 +39,10 @@ social:
   link: '/#contact'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/favour-nerrise
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/favournerrise
 # - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   # icon_pack: ai
   # link: 
