@@ -83,7 +83,7 @@ experience:
   - title: Research Assistant
     company:  
     company_url: ''
-    location: Remote
+    location: College Park, MD
     date_start: '2018-01-01'
     date_end: '2018-07-30'
     description: |2-
